@@ -1,0 +1,24 @@
+.list {
+    border: 1px solid #0d6efd;
+    border-radius: .5rem;
+}
+
+.list-name  {
+    margin-right: .375rem;
+    border-radius: .5rem !important;
+}
+
+.btn-blue {
+    background-color: #0d6efd;
+    color: #fff;
+    border: none;
+    border-radius: .5rem;
+    padding: .375rem .75rem;
+    cursor: pointer;
+    :hover {
+        background-color: #0b5ed7;
+    }
+    :active {
+        background-color: #0a58ca;
+    }
+}

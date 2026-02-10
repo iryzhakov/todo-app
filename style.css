@@ -1,0 +1,26 @@
+.list {
+  border: 1px solid #0d6efd;
+  border-radius: 0.5rem;
+}
+
+.list-name {
+  margin-right: 0.375rem;
+  border-radius: 0.5rem !important;
+}
+
+.btn-blue {
+  background-color: #0d6efd;
+  color: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.375rem 0.75rem;
+  cursor: pointer;
+}
+.btn-blue :hover {
+  background-color: #0b5ed7;
+}
+.btn-blue :active {
+  background-color: #0a58ca;
+}
+
+/*# sourceMappingURL=style.css.map */
